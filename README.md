@@ -1,16 +1,23 @@
-### Hi there 👋
+<!-- Introduction Title -->
+<h1 align="center">Hi, I'm Payal Chhugani</h1>
+<!-- Introduction Subtitle -->
+<h3 align="center">Speed iPhone Application Developer</h3>
 
-<!--
-**PayalChhuganiSpeed/PayalChhuganiSpeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Views -->
+<p align="center">
+    <img src="https://gpvc.arturio.dev/PayalChhuganiSpeed" alt="PayalChhuganiSpeed" />
+</p>
 
-Here are some ideas to get you started:
+<!-- Developer GIF -->
+<p align="center">
+    <img src="graphics/developer.gif" alt="developer" width="500" height="350"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- About Work and Profile -->
+- 😄 Pronouns: **He/Him**
+
+### **_States_**
+[![Payal Chhugani's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayminsoni-speed&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/PayalChhuganiSpeed/PayalChhuganiSpeed)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PayalChhuganiSpeed-speed&langs_count=8)](https://github.com/PayalChhuganiSpeed/PayalChhuganiSpeed)
