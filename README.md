@@ -15,9 +15,9 @@
 
 
 <!-- About Work and Profile -->
-- 😄 Pronouns: **He/Him**
+- 😄 Pronouns: **She/Her**
 
 ### **_States_**
-[![Payal Chhugani's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayminsoni-speed&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/PayalChhuganiSpeed/PayalChhuganiSpeed)
+[![Payal Chhugani's GitHub stats](https://github-readme-stats.vercel.app/api?username=PayalChhuganiSpeed&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/PayalChhuganiSpeed/PayalChhuganiSpeed)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PayalChhuganiSpeed-speed&langs_count=8)](https://github.com/PayalChhuganiSpeed/PayalChhuganiSpeed)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PayalChhuganiSpeed&langs_count=8)](https://github.com/PayalChhuganiSpeed/PayalChhuganiSpeed)
